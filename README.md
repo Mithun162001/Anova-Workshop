@@ -12,4 +12,4 @@
 
 ## Workshop - 3
 ### Data Science Pipeline
-[@Naveen Kumar](https://github.com/Naveen-004)
+[@M R Naveen Kumar](https://github.com/Naveen-004)
